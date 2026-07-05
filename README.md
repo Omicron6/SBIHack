@@ -182,31 +182,31 @@ The Digital Banking Officer understands the intent, plans the banking journey, v
 
 ## Landing Page
 
-> *(Insert Screenshot Here)*
+<img width="943" height="502" alt="image" src="https://github.com/user-attachments/assets/6e247d76-d1d3-4e5d-8d55-ec9d493268a6" />
 
 ---
 
 ## Workforce Console
 
-> *(Insert Screenshot Here)*
+<img width="943" height="502" alt="image" src="https://github.com/user-attachments/assets/a1a99ca7-152b-4a4c-9016-086f467b28d4" />
 
 ---
 
 ## Digital Employee Creation
 
-> *(Insert Screenshot Here)*
+<img width="943" height="500" alt="image" src="https://github.com/user-attachments/assets/ebed673a-c9d8-4190-a3fd-e6e7e47a7003" />
 
 ---
 
 ## Agent in Action
 
-> *(Insert Screenshot Here)*
+<img width="937" height="482" alt="image" src="https://github.com/user-attachments/assets/09bb4608-02a1-4374-9efb-9828c79e9283" />
 
 ---
 
 ## Architecture
 
-> *(Insert Screenshot Here)*
+<img width="1254" height="978" alt="architecture of the sbi hack" src="https://github.com/user-attachments/assets/e2531dd7-a257-4b33-ba90-6b663be441a5" />
 
 ---
 
