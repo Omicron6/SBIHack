@@ -350,4 +350,4 @@ This repository contains
 - Deployment Guide
 - Future Roadmap
 
-Continue reading below. remove unecessary and lovabole credits etc
+Continue reading below.
