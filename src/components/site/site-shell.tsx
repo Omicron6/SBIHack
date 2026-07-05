@@ -4,7 +4,6 @@ import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
-import cadreLogo from "@/assets/cadre-logo.png.asset.json";
 
 const links = [
   { to: "/", label: "Landing" },
@@ -105,7 +104,7 @@ export function SiteNav() {
 export function LogoMark({ className }: { className?: string }) {
   return (
     <span className={cn("relative flex h-9 w-9 items-center justify-center", className)}>
-      <img src={cadreLogo.url} alt="Cadre" className="h-9 w-9 object-contain" />
+      <img src="/sbi-hack-logo.png" alt="SBI Hack" className="h-9 w-9 object-contain" />
     </span>
   );
 }
